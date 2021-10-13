@@ -1,0 +1,175 @@
+carrier_1,carrier_2,region_2,region_2,parameter,value,comment
+hydrogen,hydrogen,DE11, DE12,capaExcResi,0,
+hydrogen,hydrogen,DE12, DE13,capaExcResi,0,
+hydrogen,hydrogen,DE11, DE14,capaExcResi,0,
+hydrogen,hydrogen,DE12, DE14,capaExcResi,0,
+hydrogen,hydrogen,DE13, DE14,capaExcResi,0,
+hydrogen,hydrogen,DE21, DE22,capaExcResi,0,
+hydrogen,hydrogen,DE21, DE23,capaExcResi,0,
+hydrogen,hydrogen,DE22, DE23,capaExcResi,0,
+hydrogen,hydrogen,DE23, DE24,capaExcResi,0,
+hydrogen,hydrogen,DE11, DE25,capaExcResi,0,
+hydrogen,hydrogen,DE21, DE25,capaExcResi,0,
+hydrogen,hydrogen,DE23, DE25,capaExcResi,0,
+hydrogen,hydrogen,DE24, DE25,capaExcResi,0,
+hydrogen,hydrogen,DE11, DE26,capaExcResi,0,
+hydrogen,hydrogen,DE12, DE26,capaExcResi,0,
+hydrogen,hydrogen,DE24, DE26,capaExcResi,0,
+hydrogen,hydrogen,DE25, DE26,capaExcResi,0,
+hydrogen,hydrogen,DE11, DE27,capaExcResi,0,
+hydrogen,hydrogen,DE14, DE27,capaExcResi,0,
+hydrogen,hydrogen,DE21, DE27,capaExcResi,0,
+hydrogen,hydrogen,DE25, DE27,capaExcResi,0,
+hydrogen,hydrogen,DE30, DE40,capaExcResi,0,
+hydrogen,hydrogen,DE12, DE71,capaExcResi,0,
+hydrogen,hydrogen,DE26, DE71,capaExcResi,0,
+hydrogen,hydrogen,DE71, DE72,capaExcResi,0,
+hydrogen,hydrogen,DE26, DE73,capaExcResi,0,
+hydrogen,hydrogen,DE71, DE73,capaExcResi,0,
+hydrogen,hydrogen,DE72, DE73,capaExcResi,0,
+hydrogen,hydrogen,DE40, DE80,capaExcResi,0,
+hydrogen,hydrogen,DE73, DE91,capaExcResi,0,
+hydrogen,hydrogen,DE50, DE92,capaExcResi,0,
+hydrogen,hydrogen,DE91, DE92,capaExcResi,0,
+hydrogen,hydrogen,DE40, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE50, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE60, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE80, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE91, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE92, DE93,capaExcResi,0,
+hydrogen,hydrogen,DE50, DE94,capaExcResi,0,
+hydrogen,hydrogen,DE92, DE94,capaExcResi,0,
+hydrogen,hydrogen,DE93, DE94,capaExcResi,0,
+hydrogen,hydrogen,DEA1, DEA2,capaExcResi,0,
+hydrogen,hydrogen,DE73, DEA4,capaExcResi,0,
+hydrogen,hydrogen,DE91, DEA4,capaExcResi,0,
+hydrogen,hydrogen,DE92, DEA4,capaExcResi,0,
+hydrogen,hydrogen,DE94, DEA3,capaExcResi,0,
+hydrogen,hydrogen,DEA1, DEA3,capaExcResi,0,
+hydrogen,hydrogen,DE72, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DE73, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DE94, DEA4,capaExcResi,0,
+hydrogen,hydrogen,DEA3, DEA4,capaExcResi,0,
+hydrogen,hydrogen,DE71, DEB1,capaExcResi,0,
+hydrogen,hydrogen,DE72, DEB1,capaExcResi,0,
+hydrogen,hydrogen,DEA1, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DEA2, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DEA3, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DEA4, DEA5,capaExcResi,0,
+hydrogen,hydrogen,DEA2, DEB1,capaExcResi,0,
+hydrogen,hydrogen,DEA5, DEB1,capaExcResi,0,
+hydrogen,hydrogen,DE12, DEB3,capaExcResi,0,
+hydrogen,hydrogen,DE71, DEB3,capaExcResi,0,
+hydrogen,hydrogen,DEA2, DEB2,capaExcResi,0,
+hydrogen,hydrogen,DEB1, DEB2,capaExcResi,0,
+hydrogen,hydrogen,DEB1, DEB3,capaExcResi,0,
+hydrogen,hydrogen,DE40, DED2,capaExcResi,0,
+hydrogen,hydrogen,DEB1, DEC0_,capaExcResi,0,
+hydrogen,hydrogen,DEB2, DEC0_,capaExcResi,0,
+hydrogen,hydrogen,DEB3, DEC0_,capaExcResi,0,
+hydrogen,hydrogen,DE24, DED4,capaExcResi,0,
+hydrogen,hydrogen,DE40, DED5,capaExcResi,0,
+hydrogen,hydrogen,DED2, DED4,capaExcResi,0,
+hydrogen,hydrogen,DE40, DEE0,capaExcResi,0,
+hydrogen,hydrogen,DE91, DEE0,capaExcResi,0,
+hydrogen,hydrogen,DE93, DEE0,capaExcResi,0,
+hydrogen,hydrogen,DED2, DED5,capaExcResi,0,
+hydrogen,hydrogen,DED4, DED5,capaExcResi,0,
+hydrogen,hydrogen,DE60, DEF0,capaExcResi,0,
+hydrogen,hydrogen,DE80, DEF0,capaExcResi,0,
+hydrogen,hydrogen,DE93, DEF0,capaExcResi,0,
+hydrogen,hydrogen,DED5, DEE0,capaExcResi,0,
+hydrogen,hydrogen,DE24, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DE26, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DE73, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DE91, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DED4, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DED5, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DEE0, DEG0,capaExcResi,0,
+hydrogen,hydrogen,DE11, DE12,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE12, DE13,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE11, DE14,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE12, DE14,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE13, DE14,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE21, DE22,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE21, DE23,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE22, DE23,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE23, DE24,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE11, DE25,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE21, DE25,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE23, DE25,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE24, DE25,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE11, DE26,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE12, DE26,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE24, DE26,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE25, DE26,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE11, DE27,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE14, DE27,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE21, DE27,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE25, DE27,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE30, DE40,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE12, DE71,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE26, DE71,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE71, DE72,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE26, DE73,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE71, DE73,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE72, DE73,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE40, DE80,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE73, DE91,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE50, DE92,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE91, DE92,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE40, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE50, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE60, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE80, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE91, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE92, DE93,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE50, DE94,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE92, DE94,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE93, DE94,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA1, DEA2,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE73, DEA4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE91, DEA4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE92, DEA4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE94, DEA3,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA1, DEA3,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE72, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE73, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE94, DEA4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA3, DEA4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE71, DEB1,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE72, DEB1,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA1, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA2, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA3, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA4, DEA5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA2, DEB1,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA5, DEB1,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE12, DEB3,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE71, DEB3,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEA2, DEB2,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEB1, DEB2,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEB1, DEB3,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE40, DED2,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEB1, DEC0_,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEB2, DEC0_,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEB3, DEC0_,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE24, DED4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE40, DED5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED2, DED4,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE40, DEE0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE91, DEE0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE93, DEE0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED2, DED5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED4, DED5,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE60, DEF0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE80, DEF0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE93, DEF0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED5, DEE0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE24, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE26, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE73, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DE91, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED4, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DED5, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
+hydrogen,hydrogen,DEE0, DEG0,costExpExc,1000,specifies costs for expansion of the pipeline
