@@ -1,0 +1,7 @@
+carrier_1,carrier_2,parameter,value,comment
+electricity,,avaExc,0.7,"used to estimate n-1 operation based on tennet (2020), Infrastructure Outlook 2050"
+gas,hydrogen,avaExc,0.8,"used to reflect that capacities decreases if hydrogne is transported, based on Quarto (2018)"
+electricity,,lifeExc,40,"according to Brown (2018), Synergies of sector coupling"
+gas,hydrogen,expExcFix,0,
+gas,hydrogen,lossExc,0.05,
+electricity,,lossExc,0.02,
