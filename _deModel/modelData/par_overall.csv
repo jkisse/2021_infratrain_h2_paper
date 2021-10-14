@@ -1,11 +1,17 @@
-carrier_1,region_1,parameter,value
-,,rateDisc,0
-,,rateExpConv,0.02
-,,rateExpStIn,0.02
-,,rateExpStOut,0.02
-,,rateExpStSize,0.02
-,,rateExpExc,0.02
-biomass,,trdBuyPrc,0
-biomass,,useUp,971899.5007
-electricity,DE,costLss,13000
-electricity,,costLss,80000
+carrier_1,region_1,region_2,id,parameter,value,comment
+,,,,rateDisc,0,
+,,,,rateExpConv,0.02,
+,,,,rateExpStIn,0.02,
+,,,,rateExpStOut,0.02,
+,,,,rateExpStSize,0.02,
+,,,,rateExpExc,0.02,
+biomass,,,,trdBuyPrc,0,primary energy carrier
+biomass,,,,useUp,0,upper limit for biomass use in europe (was 971899.5007) (conversion)
+electricity,DE,,,costLss,13000,cost of lost load
+electricity,,,,costLss,80000,
+hydrogen,DE,DE94,1,trdBuyPrc,10000,example for a step wise import with different capacities at different prices
+hydrogen,DE,DE94,1,trdBuyUp,5000,dummy
+hydrogen,DE,DE94,2,trdBuyPrc,12000,dummy
+hydrogen,DE,DE94,2,trdBuyUp,5000,dummy
+hydrogen,DE,DE93,,trdBuyPrc,10000,dummy
+hydrogen,NL,NL,,trdBuyPrc,9000,dummy
