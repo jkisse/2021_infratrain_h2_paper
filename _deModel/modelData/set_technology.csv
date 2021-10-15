@@ -22,4 +22,4 @@ electricIndustryHeating,,electricity,heatIndustry,,,stock,1
 methanation,,hydrogen,synthGas,,,mature,2
 fermenter,,biomass,synthGas,,,mature,2
 gasPlant,,synthGas,electricity,,,mature,1
-gasStorage,,,,gas,gas,stock,1
+gasStorage,,,,gas,gas,stock,2
